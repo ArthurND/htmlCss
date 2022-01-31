@@ -1,2 +1,2 @@
 # htmlCss
-apprentissage des bases
+apprentissage des bases du HTML et du CSS
